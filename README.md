@@ -16,7 +16,7 @@ I build platforms and run the businesses they power. 14 years turning operationa
 
 ## Portfolio
 
-[scumunna.github.io/adtech-portfolio](https://scumunna.github.io/adtech-portfolio/) — Interactive case studies, live demos, and deep dives.
+[stephenumunna.com](https://stephenumunna.com/) — Interactive case studies, live demos, and deep dives.
 
 ## Contact
 
