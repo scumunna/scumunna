@@ -8,7 +8,7 @@ I build platforms and run the businesses they power. A decade turning operationa
 
 **Stanford BIOE 230 Interactive** — Interactive learning platform adopted by Stanford Bioengineering. 180 interactive visualizations, 960 practice problems, contextual tutor. Professor Todd P. Coleman uses it to teach 200+ students.
 
-**JointCommerce** — Chief Technology Officer. Three-sided AdTech platform (marketplace + advertising + first-party data). 950K lines, 235 models, 6 DSP integrations, custom pixel tracking, shoppable ad engine. 15-person team, 200+ simultaneous accounts, 85% margins.
+**JointCommerce** — Chief Technology Officer (CTO), Acting COO. Three-sided AdTech platform (marketplace + advertising + first-party data). 950K lines, 235 models, 6 DSP integrations, custom pixel tracking, shoppable ad engine. 15-person team, 200+ simultaneous accounts, 85% margins.
 
 **CartoChrome** — Health score for every US ZIP code. PostGIS spatial analysis, 21 data sources, 4M+ providers. [cartochrome.com](https://www.cartochrome.com)
 
