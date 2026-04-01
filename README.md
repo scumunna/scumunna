@@ -20,4 +20,4 @@ I build platforms and run the businesses they power. 14 years turning operationa
 
 ## Contact
 
-scumunna@gmail.com · (312) 608-2975
+scumunna@gmail.com · (323) 917-1875
