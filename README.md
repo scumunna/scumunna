@@ -6,6 +6,8 @@ I build platforms and run the businesses they power. A decade turning operationa
 
 ## What I've Built
 
+**BidLab** — The flight simulator for programmatic advertising. A native macOS app (Swift/SwiftUI) that teaches the math and operations of programmatic by *doing* it: 9 learning paths, 124 interactive lessons, role certification exams, and a math-true bidding simulator. Pure core engine validated by 2,500+ known-answer checks. Open source. [github.com/scumunna/BidLab](https://github.com/scumunna/BidLab)
+
 **Stanford BIOE 230 Interactive** — Interactive learning platform adopted by Stanford Bioengineering. 180 interactive visualizations, 960 practice problems, contextual tutor. Professor Todd P. Coleman uses it to teach 200+ students.
 
 **JointCommerce** — Chief Technology Officer (CTO), Acting COO. Three-sided AdTech platform (marketplace + advertising + first-party data). 950K lines, 235 models, 6 DSP integrations, custom pixel tracking, shoppable ad engine. 15-person team, 200+ simultaneous accounts, 85% margins.
