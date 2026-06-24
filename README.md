@@ -33,6 +33,11 @@ It plans and recommends like a trader, then refuses to spend a dollar without pa
 budget caps, a policy engine, and a human approval gate. The buyer's brain the protocol does
 not ship.
 
+**[Shoppable Ad Studio](https://github.com/scumunna/shoppable-ad-studio)** (JavaScript, MIT)
+A dependency-light, single-file shoppable ad-unit builder. It turns a product feed into
+click-trackable IAB display creative across 7 templates and exports straight to DV360,
+Google Ad Manager, an iFrame, or self-hosted HTML. [Live demo](https://scumunna.github.io/shoppable-ad-studio/).
+
 ## Live products
 
 **[CartoChrome](https://www.cartochrome.com)** A health-access score for every US ZIP code.
